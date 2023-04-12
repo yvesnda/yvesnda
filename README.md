@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Yves 👋
 
 I'm a full-stack developer with 4 years of experience working with different languages and frameworks including PHP, JAVA, and JavaScript. I have experience working with Laravel, CakePHP, Springboot, and NestJS for backend development, and React and Angular for frontend development. I am proficient in using tools like Git, CI/CD (GitHub Actions, GitLab Pipelines), Docker, Kubernetes, and Jenkins.
 
@@ -8,8 +8,7 @@ Apart from my experience as a full-stack developer, I am also interested in arti
 
 If you have any questions, or just want to say hi, you can reach me at:
 
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn URL]
+- Email: yndagijimana@gmail.com
 
 ## 🌱 What I am currently learning
 
@@ -31,7 +30,7 @@ Here are some of the projects I have worked on:
 
 ## 📈 Stats
 
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&count_private=true&show_icons=true)](https://github.com/YourUsername)
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yvesnda&count_private=true&show_icons=true)](https://github.com/yvesnda)
 
 ## 🎉 Thanks for visiting!
 
